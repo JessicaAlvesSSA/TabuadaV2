@@ -5,8 +5,8 @@ Exercício de tabuada utilizando a estrutura de repetição "do while".
 
 Digite no terminal os seguintes comandos:
 
-javac TabuadaV1.java
+javac TabuadaV2.java
 
-java TabuadaV1
+java TabuadaV2
 
 Digite um número da sua escolha.
